@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/475601/dsa-que/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/475601/dsa-que/tree/master/0258-add-digits) |
+| [0858-mirror-reflection](https://github.com/475601/dsa-que/tree/master/0858-mirror-reflection) |
 ## Array
 |  |
 | ------- |
@@ -34,4 +35,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/475601/dsa-que/tree/master/0258-add-digits) |
+| [0858-mirror-reflection](https://github.com/475601/dsa-que/tree/master/0858-mirror-reflection) |
+## Geometry
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/475601/dsa-que/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
