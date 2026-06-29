@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/475601/dsa-que/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/475601/dsa-que/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/475601/dsa-que/tree/master/0858-mirror-reflection) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/475601/dsa-que/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Array
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/475601/dsa-que/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/475601/dsa-que/tree/master/0485-max-consecutive-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/475601/dsa-que/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/475601/dsa-que/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Greedy
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/475601/dsa-que/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/475601/dsa-que/tree/master/0858-mirror-reflection) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/475601/dsa-que/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Geometry
 |  |
 | ------- |
