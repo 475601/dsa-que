@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/475601/dsa-que/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/475601/dsa-que/tree/master/0485-max-consecutive-ones) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/475601/dsa-que/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/475601/dsa-que/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/475601/dsa-que/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
