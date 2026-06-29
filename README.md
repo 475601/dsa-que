@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/475601/dsa-que/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/475601/dsa-que/tree/master/0258-add-digits) |
 ## Array
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/475601/dsa-que/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/475601/dsa-que/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/475601/dsa-que/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
