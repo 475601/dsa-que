@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/475601/dsa-que/tree/master/0054-spiral-matrix) |
+| [0136-single-number](https://github.com/475601/dsa-que/tree/master/0136-single-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/475601/dsa-que/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/475601/dsa-que/tree/master/0485-max-consecutive-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/475601/dsa-que/tree/master/1331-rank-transform-of-an-array) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/475601/dsa-que/tree/master/0054-spiral-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/475601/dsa-que/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
