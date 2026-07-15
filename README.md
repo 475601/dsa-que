@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/475601/dsa-que/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/475601/dsa-que/tree/master/0858-mirror-reflection) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/475601/dsa-que/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/475601/dsa-que/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/475601/dsa-que/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/475601/dsa-que/tree/master/0858-mirror-reflection) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/475601/dsa-que/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/475601/dsa-que/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Geometry
 |  |
 | ------- |
