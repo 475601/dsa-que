@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/475601/dsa-que/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/475601/dsa-que/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/475601/dsa-que/tree/master/0858-mirror-reflection) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/475601/dsa-que/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/475601/dsa-que/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/475601/dsa-que/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/475601/dsa-que/tree/master/0485-max-consecutive-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/475601/dsa-que/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/475601/dsa-que/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/475601/dsa-que/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/475601/dsa-que/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2574-left-and-right-sum-differences](https://github.com/475601/dsa-que/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/475601/dsa-que/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/475601/dsa-que/tree/master/0858-mirror-reflection) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/475601/dsa-que/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/475601/dsa-que/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/475601/dsa-que/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Geometry
