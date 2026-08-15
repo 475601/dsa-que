@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/475601/dsa-que/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/475601/dsa-que/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/475601/dsa-que/tree/master/0217-contains-duplicate) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/475601/dsa-que/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/475601/dsa-que/tree/master/0485-max-consecutive-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/475601/dsa-que/tree/master/1331-rank-transform-of-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/475601/dsa-que/tree/master/0217-contains-duplicate) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/475601/dsa-que/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/475601/dsa-que/tree/master/1331-rank-transform-of-an-array) |
 ## String
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/475601/dsa-que/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/475601/dsa-que/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/475601/dsa-que/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
