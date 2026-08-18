@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/475601/dsa-que/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/475601/dsa-que/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/475601/dsa-que/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/475601/dsa-que/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/475601/dsa-que/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2574-left-and-right-sum-differences](https://github.com/475601/dsa-que/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/475601/dsa-que/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/475601/dsa-que/tree/master/0258-add-digits) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/475601/dsa-que/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/475601/dsa-que/tree/master/0054-spiral-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/475601/dsa-que/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Bit Manipulation
 |  |
 | ------- |
