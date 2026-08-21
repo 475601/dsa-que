@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/475601/dsa-que/tree/master/0020-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/475601/dsa-que/tree/master/0097-interleaving-string) |
 | [0514-freedom-trail](https://github.com/475601/dsa-que/tree/master/0514-freedom-trail) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/475601/dsa-que/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -102,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/475601/dsa-que/tree/master/3345-smallest-divisible-digit-product-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/475601/dsa-que/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/475601/dsa-que/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
