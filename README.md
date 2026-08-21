@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/475601/dsa-que/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/475601/dsa-que/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/475601/dsa-que/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/475601/dsa-que/tree/master/0367-valid-perfect-square) |
 | [0858-mirror-reflection](https://github.com/475601/dsa-que/tree/master/0858-mirror-reflection) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/475601/dsa-que/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/475601/dsa-que/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/475601/dsa-que/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/475601/dsa-que/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
