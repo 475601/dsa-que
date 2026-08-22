@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/475601/dsa-que/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/475601/dsa-que/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/475601/dsa-que/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/475601/dsa-que/tree/master/1331-rank-transform-of-an-array) |
 ## String
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/475601/dsa-que/tree/master/0020-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/475601/dsa-que/tree/master/0097-interleaving-string) |
+| [0242-valid-anagram](https://github.com/475601/dsa-que/tree/master/0242-valid-anagram) |
 | [0514-freedom-trail](https://github.com/475601/dsa-que/tree/master/0514-freedom-trail) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/475601/dsa-que/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/475601/dsa-que/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/475601/dsa-que/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/475601/dsa-que/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/475601/dsa-que/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/475601/dsa-que/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
