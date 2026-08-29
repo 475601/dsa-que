@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/475601/dsa-que/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/475601/dsa-que/tree/master/0367-valid-perfect-square) |
 | [0858-mirror-reflection](https://github.com/475601/dsa-que/tree/master/0858-mirror-reflection) |
+| [1025-divisor-game](https://github.com/475601/dsa-que/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/475601/dsa-que/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/475601/dsa-que/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/475601/dsa-que/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0097-interleaving-string](https://github.com/475601/dsa-que/tree/master/0097-interleaving-string) |
 | [0514-freedom-trail](https://github.com/475601/dsa-que/tree/master/0514-freedom-trail) |
+| [1025-divisor-game](https://github.com/475601/dsa-que/tree/master/1025-divisor-game) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -125,4 +127,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/475601/dsa-que/tree/master/0367-valid-perfect-square) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/475601/dsa-que/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/475601/dsa-que/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/475601/dsa-que/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
