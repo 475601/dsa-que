@@ -2,19 +2,18 @@ class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
         int n = nums.size();
-        vector<int> count(n + 1, 0);
-        for(int x : nums) {
-            count[x]++;
+        vector<int> ans(2);
+        set<int> s;
+        int sum = 0;
+for(int x : nums) {
+            if(s.count(x))
+                ans[0] = x;
+            else {
+                s.insert(x);
+                sum += x;
+            }
         }
-int duplicate = -1;
-int missing = -1;
-for(int i = 1; i <= n; i++) {
-    if(count[i] == 2)
-duplicate = i;
-
-    if(count[i] == 0)
-                missing = i;
-        }
-return {duplicate, missing};
+ ans[1] = n * (n + 1) / 2 - sum;
+ return ans;
     }
 };
