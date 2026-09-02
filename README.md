@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/475601/dsa-que/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/475601/dsa-que/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/475601/dsa-que/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/475601/dsa-que/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/475601/dsa-que/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/475601/dsa-que/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2574-left-and-right-sum-differences](https://github.com/475601/dsa-que/tree/master/2574-left-and-right-sum-differences) |
+| [3875-construct-uniform-parity-array-i](https://github.com/475601/dsa-que/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
